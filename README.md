@@ -13,6 +13,14 @@ This list contains things related to solving captcha: programs, programming libr
 
 * [2Captha](https://github.com/Zaczero/2Captcha) - Simple API wrapper for 2captcha.com
 
+### JavaScript APIs
+
+* [anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
+
+### PHP APIs
+
+* [anticaptcha-client](https://github.com/gladyshev/anticaptcha-client) - anti-captcha.com client library
+
 ## Captcha Solving Browser Extensions
 
 ### Firefox Extension
@@ -29,8 +37,24 @@ This list contains things related to solving captcha: programs, programming libr
 * [captcha-tensoflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and
   CNN Model. Accuracy 90%+
 * [simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 
+* [captcha_break](https://github.com/ypwhs/captcha_break) - deep learning engine to crack captchas
+* [captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation
+* [captcha](https://github.com/junliangliu/captcha) - CNN based captcha recognition
+* [pytorch-captcha](https://github.com/ice-tong/pytorch-captcha) - Use pytorch to build CNN identification verification code
 
 ### JavaScript Engines
 
 * [puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer
   (using audio recognition)
+  
+### C# Engines
+
+* [captcha-breaking-library](https://github.com/skotz/captcha-breaking-library) - Neural network, contour analysis, bitmap vector subtraction CAPTCHA solving library and scripting language with perceptive color space segmentation
+
+### Golang Engines
+
+* [swarmit](https://github.com/TestingPens/SwarmIt) - A Google ReCaptcha Bypass Script
+
+### PHP Engines
+
+* [Captcha-recognition-TF](https://github.com/dukn/Captcha-recognition-TF) - Recognize captcha using deep learning
