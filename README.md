@@ -8,6 +8,8 @@ This list contains things related to solving captcha: programs, programming libr
 
 * [captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to captcha solving services
 * [captcha_solution](https://github.com/lorien/captcha_solution) - A simple interface to multiple captcha solving services
+* [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
+* [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha.com
 
 ### C# Apis
 
@@ -41,6 +43,7 @@ This list contains things related to solving captcha: programs, programming libr
 * [captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation
 * [captcha](https://github.com/junliangliu/captcha) - CNN based captcha recognition
 * [pytorch-captcha](https://github.com/ice-tong/pytorch-captcha) - Use pytorch to build CNN identification verification code
+* [https://github.com/0b01/SimGAN-Captcha](https://github.com/0b01/SimGAN-Captcha) - Solve captcha without manually labeling a training set
 
 ### JavaScript Engines
 
@@ -58,3 +61,7 @@ This list contains things related to solving captcha: programs, programming libr
 ### PHP Engines
 
 * [Captcha-recognition-TF](https://github.com/dukn/Captcha-recognition-TF) - Recognize captcha using deep learning
+
+### C++ Engines
+
+* [captcha-break](https://github.com/nladuo/captcha-break) - captcha break based on opencv2, tesseract-ocr and some machine learning algorithm2
