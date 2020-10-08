@@ -54,3 +54,8 @@ This list contains things related to solving captcha: programs, programming libr
 
 * C++ Engines
   * [captcha-break](https://github.com/nladuo/captcha-break) - captcha break based on opencv2, tesseract-ocr and some machine learning algorithm2
+  
+## Automation Tools
+
+* Puppeteer
+  * [puppeteer-extra-plugin-recaptcha](https://github.com/berstend/puppeteer-extra/blob/7952875f37da2beb7ce9f81409a458a51682d9fb/packages/puppeteer-extra-plugin-recaptcha/readme.md) - A Puppeteer extension which helps you to solve captchas when using Puppeteer to automate web-access.
